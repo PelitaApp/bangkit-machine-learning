@@ -14,7 +14,7 @@ The source code of Machine Learning model's API of PELITA in order to complete B
 - [Google Images](https://images.google.com)
 
 # Detection Labels
-[Label Map]()
+![Labels](https://github.com/PelitaApp/bangkit-machine-learning/assets/77198942/8543a8fe-6edd-433e-82c7-453d9c27a6f9)
 
 # API Endpoint
 
