@@ -24,7 +24,7 @@ The source code of Machine Learning model's API of PELITA in order to complete B
 
 # How to predict image with Postman
 
-## Architecture of SSD MobileNetV2 for Trash Detection
-![SSD_MobileNetV2]()
+## Architecture of MobileNetV2 for Trash Detection
+![MobileNetV2]()
 
 # References
