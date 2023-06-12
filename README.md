@@ -4,7 +4,7 @@ The source code of Machine Learning model's API of PELITA in order to complete B
 ![detection](https://github.com/PelitaApp/bangkit-machine-learning/assets/77198942/ac98caeb-b9f8-4a5f-ae1f-9641d5b59dc0)
 
 # Model Building's Notebook
-[Pelita Detection Notebook]()
+[Pelita Detection Notebook](https://colab.research.google.com/drive/1rggXzra2S-BRkpxdzZ7VMrbM_RRK9XwM#scrollTo=6jqR9AWvSXFW)
 
 # API URL
 [Flask API]()
