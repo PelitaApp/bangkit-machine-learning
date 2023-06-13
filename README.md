@@ -20,7 +20,7 @@ The source code of Machine Learning model's API of PELITA in order to complete B
 
 # The flow of Machine Learning Service
 
-# How to run this Flask app
+# How to run this Streamlit app
 
 # How to predict image with Postman
 
