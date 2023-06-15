@@ -30,8 +30,8 @@ The source code of Machine Learning model's API of PELITA in order to complete B
 * `Selec Files` image that you want predict as a value of the key
 * `Send` the request
 
-![image](https://github.com/PelitaApp/bangkit-machine-learning/assets/77198942/f9c59444-e876-4e5a-a607-ed0cb5e65101)
-![image](https://github.com/PelitaApp/bangkit-machine-learning/assets/77198942/88ab96e6-a647-47a6-9f1a-636dc6f841dd)
+![image](https://github.com/PelitaApp/bangkit-machine-learning/assets/77198942/04fa5ef0-4a96-4fa0-8c23-48a7f78798e4)
+![image](https://github.com/PelitaApp/bangkit-machine-learning/assets/77198942/e190e28a-62db-4610-b0e2-c4180ae5fccc)
 
 ## Architecture of MobileNetV2 for Trash Detection
 ![MobileNetV2]()
