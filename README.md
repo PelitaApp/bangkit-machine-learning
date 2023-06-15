@@ -31,7 +31,7 @@ The source code of Machine Learning model's API of PELITA in order to complete B
 * `Send` the request
 
 ![image](https://github.com/PelitaApp/bangkit-machine-learning/assets/77198942/04fa5ef0-4a96-4fa0-8c23-48a7f78798e4)
-![image](https://github.com/PelitaApp/bangkit-machine-learning/assets/77198942/2648042c-e8e2-4941-aefa-97fa7f487c27)
+![image](https://github.com/PelitaApp/bangkit-machine-learning/assets/77198942/e7fe49f2-bee3-47b9-8296-e8b50858cab5)
 ![image](https://github.com/PelitaApp/bangkit-machine-learning/assets/77198942/e190e28a-62db-4610-b0e2-c4180ae5fccc)
 
 ## Architecture of MobileNetV2 for Trash Detection
