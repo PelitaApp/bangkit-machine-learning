@@ -7,7 +7,7 @@ The source code of Machine Learning model's API of PELITA in order to complete B
 [Pelita Detection Notebook](https://colab.research.google.com/drive/1rggXzra2S-BRkpxdzZ7VMrbM_RRK9XwM#scrollTo=6jqR9AWvSXFW)
 
 # API URL
-[Flask API]()
+[Flask API](https://modelapi-t5wb5y3n3a-et.a.run.app/)
 
 # Dataset Resources
 - [Kaggle](https://kaggle.com/)
@@ -17,6 +17,7 @@ The source code of Machine Learning model's API of PELITA in order to complete B
 ![Labels](https://github.com/PelitaApp/bangkit-machine-learning/assets/77198942/8543a8fe-6edd-433e-82c7-453d9c27a6f9)
 
 # API Endpoint
+![Create API](https://github.com/PelitaApp/Model_API)
 
 # The flow of Machine Learning Service
 
@@ -24,7 +25,9 @@ The source code of Machine Learning model's API of PELITA in order to complete B
 
 # How to predict image with Postman
 
+
 ## Architecture of MobileNetV2 for Trash Detection
 ![MobileNetV2]()
 
 # References
+-
